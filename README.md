@@ -1,4 +1,4 @@
-Para criar e renderizar a cena foi utilizado o programa Blender, normalmente usado para modelagem 3D. Como recomendado, usamos o cycles para a renderização com path tracing e EEVEE para a renderização em tempo real.
+Para criar e renderizar a cena foi utilizado o programa Blender, normalmente usado para modelagem 3D. Como recomendado, usamos o cycles para a renderização com path tracing e EEVEE para a renderização em tempo real. Utilizando as configurações base, mudando apenas a renderização para utilizar a GPU ao inves da CPU. Na cena possui objetos de diferentes materiais, como metalico e emissivo misturados com luzes coloridas. 
 
 Comparando os resultados de ambos os tipos de renderização nós coseguimos destacar o seguinte:
 
