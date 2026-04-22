@@ -16,3 +16,9 @@ No path tracing, as sombras são mais suaves e naturais. No tempo real, são mai
 
 Qualidade geral:
 O path tracing produz uma imagem mais realista, enquanto o tempo real prioriza desempenho, sacrificando detalhes.
+
+Referencia:
+https://docs.blender.org/manual/en/2.91/render/cycles/index.html
+Manual de Site oficial do Blender 
+
+Feito por: Gabriel Assis Jaquet e Gabriel Siciliani Mendes de Oliveira
